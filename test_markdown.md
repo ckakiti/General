@@ -7,4 +7,4 @@ If no account linked, change all repositories
 ```
 git config --global user.name ckakiti
 ```
-(insert name of your GitHub account)
+(insert name of your GitHub account e.g. ckakiti)
