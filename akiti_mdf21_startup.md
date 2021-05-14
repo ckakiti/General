@@ -1,7 +1,7 @@
 # Daily startup:
 1. open atom (text editor)
-  - open current project (located at `~/Development`)
-  - open main files (see Key Files)
+    - open current project (located at `~/Development`)
+    - open main files (see Key Files)
 
 2. open new terminal window and type
 
