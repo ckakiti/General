@@ -9,4 +9,4 @@
 
     `gatsby develop` (takes some time, may throw errors)
 
-3. To view website in browser, open http://localhost:8000/ and http:/localhost:8000/__graphql
+3. To view website in browser, open http://localhost:8000/ and http://localhost:8000/__graphql
