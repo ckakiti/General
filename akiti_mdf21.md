@@ -1,5 +1,5 @@
-# Bok MDF Project: Displaying student projects on a website with Gatsby
-Spring '21
+# Bok MDF Project Spring '21
+Displaying student projects on a website with Gatsby
 
 ## Overview
 - Goal: to display student work (stored in Airtable) on a website
