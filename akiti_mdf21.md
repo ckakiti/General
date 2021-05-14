@@ -1,4 +1,4 @@
-# Bok MDF Project Spring '21
+# MDF Project Spring '21
 Displaying student projects on a website with Gatsby
 
 ## Overview
@@ -12,13 +12,13 @@ Displaying student projects on a website with Gatsby
 
 ## Components
 ### gatsby-config.js
-- 
+- test
 
 ### index.js
-- 
+- test
 
 ### gatsby-node.js
-- 
+- test
 
 ### project_template.js
--
+- test
