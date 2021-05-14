@@ -1,7 +1,7 @@
 # Daily startup:
 1. open atom (text editor)
     - open current project (located at `~/Development`)
-    - open main files (see [Key Files](https://github.com/ckakiti/General/blob/master/akiti_mdf21.md#key-files))
+    - open main files (see [Key Files](https://github.com/ckakiti/General/blob/master/akiti_mdf21.md#key-project-files))
 
 2. open new terminal window and type
 
