@@ -1,3 +1,4 @@
+###### tags: `mdf` `gatsby` `airtable`
 # MDF Project Spring '21
 Displaying student projects on a website with Gatsby. The project builds upon [this tutorial](https://hackmd.io/pBPs96b-Q_KdkYm1Dc3ZyQ).
 
@@ -6,18 +7,11 @@ Displaying student projects on a website with Gatsby. The project builds upon [t
 - Languages: HTML, CSS, javascript
 
 ## Useful resources
-- [Starting point: getting AT data to a website](https://hackmd.io/pBPs96b-Q_KdkYm1Dc3ZyQ)
-- [Gatsby tutorial](https://www.gatsbyjs.com/docs/tutorial/)
-- Daily start up:
-    1. open atom (text editor)
-        - open current project (located at `~/Development`)
-        - open main files (see below)
-    2. open new terminal window and type
-        - `cd ~/Development/PROJECTNAME`
-        - `gatsby develop` (takes some time, may throw errors)
-    3. To view website in browser, open http://localhost:8000/ and http:/localhost:8000/__graphql
+- [Project starting point: getting AT data to a website](https://hackmd.io/pBPs96b-Q_KdkYm1Dc3ZyQ)
+- [How to use Gatsby (general)](https://www.gatsbyjs.com/docs/tutorial/)
+- [Daily start up instructions](https://github.com/ckakiti/General/blob/master/akiti_mdf21_startup.md)
 
-## Key files
+## Key project files
 The website was built with a [Gatsby starter template](https://github.com/gatsbyjs/gatsby-starter-default). Within that template, there are several files that contain information critical to website function:
 ### 1) gatsby-config.js
 - contains metadata for website (e.g. title, plugins, etc.)
