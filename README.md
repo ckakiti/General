@@ -1,2 +1,2 @@
-# hello-world
-hello world project
+# General repository
+For spare files/projects
